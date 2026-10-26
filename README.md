@@ -2,7 +2,7 @@
 
 Une aide à la décision pour le gestionnaire sinistres : **dire où regarder, pourquoi, et quoi vérifier**, et se taire quand les données ne permettent pas de conclure.
 
-**Application en ligne :** [lien à ajouter après déploiement]
+**Application en ligne :** https://fraude-auto-ltsmjtkggggqxfwtoyae78.streamlit.app/
 
 ## Pourquoi ce projet
 
