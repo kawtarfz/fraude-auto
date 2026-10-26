@@ -1,0 +1,17 @@
+[project]
+name = "fraude-auto"
+version = "0.1.0"
+description = "Triage de la fraude à l'assurance automobile par découpage en scénarios"
+authors = [{ name = "Kawtar Faouzi" }]
+requires-python = ">=3.10"
+dependencies = ["streamlit>=1.40", "pandas>=2.0", "scikit-learn>=1.3"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["fraude"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
